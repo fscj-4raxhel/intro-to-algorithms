@@ -1,3 +1,10 @@
+# IntelliJ IDEA
+*.iml
+.idea
+
+# Java byte code files
+out/
+
 # Compiled class file
 *.class
 
